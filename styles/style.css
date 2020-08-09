@@ -27,7 +27,7 @@ img{
 }
 
 #img-div{
-    background: white;
+    /* background: white; */
     padding: 10px;
 }
 figcaption{
@@ -72,10 +72,12 @@ ul li{
 
 blockquote{
     font-family: cursive;
+    text-align: center;
 }
 
 blockquote cite{
     font-size: 1.5rem;
+    
 }
 footer {
     text-align: end;
